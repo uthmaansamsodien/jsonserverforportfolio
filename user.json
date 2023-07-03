@@ -3,36 +3,42 @@
         {
             "ID": 1,
             "titel": "Bootsrtap Portfolio",
+            "img": "https://i.postimg.cc/Wbtwx1Bc/Screenshot-2023-07-03-160932.png",
             "description": "Portfolio made with Bootstrap"
         },
         
         {
             "ID": 2,
             "titel": "To-Do List",
+            "img": "https://i.postimg.cc/hGNkQYVf/Screenshot-2023-07-03-161223.png",
             "description": "A To-Do list where you can add and sort"
         },
         
         {
             "ID": 3,
             "titel": "eCommerce website",
+            "img": "https://i.postimg.cc/NjCqBFM8/Screenshot-2023-07-03-161645.png",
             "description": "A marketing website to buy and sell items"
         },
         
         {
             "ID": 4,
             "titel": "Calculator",
+            "img": "https://i.postimg.cc/BnmsbNhK/Screenshot-2023-07-03-161723.png",
             "description": "A functional calculator"
         },
         
         {
             "ID": 5,
             "titel": "BMI Calculator",
+            "img": "https://i.postimg.cc/02gN1t35/Screenshot-2023-07-03-161824.png",
             "description": "A BMI calculator that tells you if you're underweight, healthy, overweight or obese "
         },
         
         {
             "ID": 6,
             "titel": "Calendar for May 2023",
+            "img": "https://i.postimg.cc/02gN1t35/Screenshot-2023-07-03-161824.png",
             "description": "The month of May with the 3rd being highlighted"
         }
     ],
