@@ -1,0 +1,90 @@
+{
+    "projects":[
+        {
+            "ID": 1,
+            "titel": "Bootsrtap Portfolio",
+            "description": "Portfolio made with Bootstrap"
+        },
+        
+        {
+            "ID": 2,
+            "titel": "To-Do List",
+            "description": "A To-Do list where you can add and sort"
+        },
+        
+        {
+            "ID": 3,
+            "titel": "eCommerce website",
+            "description": "A marketing website to buy and sell items"
+        },
+        
+        {
+            "ID": 4,
+            "titel": "Calculator",
+            "description": "A functional calculator"
+        },
+        
+        {
+            "ID": 5,
+            "titel": "BMI Calculator",
+            "description": "A BMI calculator that tells you if you're underweight, healthy, overweight or obese "
+        },
+        
+        {
+            "ID": 6,
+            "titel": "Calendar for May 2023",
+            "description": "The month of May with the 3rd being highlighted"
+        }
+    ],
+    "Testimonials":[ 
+        {
+            "ID": 1,
+            "Name": "Imraan",
+            "Surname": "Bernksen",
+            "img": "https://i.postimg.cc/ZnYdvgLv/t0.jpg",
+            "message": "I highly recommend Uthmaan, an aspiring web developer with a passion for creating stunning and functional websites.            Uthmaan has a strong foundation in programming languages such as HTML, CSS, and Bootstrap and is constantly learning and staying up-to-date with the latest technologies. His attention to detail and commitment to delivering high-quality work makes him an excellent choice for any web development project."
+        },
+        {
+        "ID": 2,
+        "Name": "Ma'arij",
+        "Surname": "Camroodien",
+        "img": "https://i.postimg.cc/mkg2b0Mx/e2c147ed-0f95-4798-96a5-93863264d3a4.jpg",
+        "message": "Uthmaan is a quiet person, but once you get to know him you will discover that he is a very energetic person who is always eager to learn new things. He is always asking questions to make sure he fully understands the work. Uthmaan is always in class and taking note. He is always focused and determined that he will acomplish big things in hs future. When working in a group he is always giving his full attention and co-operating 100%. He is always making sure that his peers are okay, looking out for them making them feel comfortable in and around the work place."
+    },
+        {
+        "ID": 3,
+        "Name": "Codi",
+        "Surname": "Kader",
+        "img": "https://i.postimg.cc/RZhLD3KJ/C12-C2-Codi-Kader-1.jpg",
+        "message": "Uthmaan, He is a very determined, passionate and kind young man. He is going to do great things in the IT sector. You can count on that. Uthi strives his best to make sure that all his deadlines & work is done as soon as possible and correctly as possible. He works really well in a group or alone. He is able to adapt in any environment he is placed in. Once you get to know him you feel a sense of belonging as he is able to welcome you in with a warm and kind energy. When working in a team everyone always asks him for help and he is always willing to help which is a great perk to have when working with a team."
+    },
+        {
+        "ID": 4,
+        "Name": "Justin",
+        "Surname": "Scholtz",
+        "img": "https://i.postimg.cc/Wb4mfFPL/C12-Justin-Scholtz-2-min.jpg",
+        "message": "In these 6 months I've learned a lot about Uthmaan and who he is as a person. His very dedicated to always improving his skills, always asking questions and trying to understand the answer which is a good quality to have especially in a work environment and that is someone I would want on my team. Any company would be lucky to have him as a employee and I stand by that."
+    },
+        {
+        "ID": 5,
+        "Name": "Keeno",
+        "Surname": "Fourie",
+        "img": "https://i.postimg.cc/432SNQPS/C12-Keeno-Fourie-1.jpg",
+        "message": "Uthmaan Samsodien is the most friendly and kind-hearted person I know. He is committed to what he does and his determination is unmatched when it comes to solving a problem. He is hard-working and does his best in everything no matter how hard the challenge or how difficult the assignment. He is the person to have on your team and there is a sense of pride in everything he does. His understanding of web development makes him an advantage and I see him doing great things going forward."
+    },
+    {
+        "ID": 6,
+        "Name": "Imtiyaaz",
+        "Surname": "Damon",
+        "img": "https://i.postimg.cc/YSBL2WZ7/C12-C2-Mogammad-Damon-1.jpg",
+        "message": "Uthmaan's commitment to his work is truly commendable. Whether it's tackling complex problems, collaborating with team members, or leading initiatives, he consistently demonstrates a strong work ethic and a deep understanding of his field. His attention to detail and meticulous approach ensure that every task is completed to the highest standard, leaving no room for compromise."
+    }
+    ],
+
+    "skills":[
+        {"ID": ""
+
+        }
+    ]
+
+}
