@@ -2,9 +2,9 @@
     "projects":[
         {
             "ID": 1,
-            "titel": "Bootsrtap Portfolio",
+            "titel": "Bootstrap Portfolio.",
             "img": "https://i.postimg.cc/Wbtwx1Bc/Screenshot-2023-07-03-160932.png",
-            "description": "Portfolio made with Bootstrap"
+            "description": " A portfolio made with Bootstrap"
         },
         
         {
@@ -38,7 +38,7 @@
         {
             "ID": 6,
             "titel": "Calendar for May 2023",
-            "img": "https://i.postimg.cc/02gN1t35/Screenshot-2023-07-03-161824.png",
+            "img": "https://i.postimg.cc/5yy29TJj/Screenshot-2023-07-03-162137.png",
             "description": "The month of May with the 3rd being highlighted"
         }
     ],
