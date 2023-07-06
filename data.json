@@ -54,7 +54,7 @@
             "Name": "Imraan",
             "Surname": "Bernksen",
             "img": "https://i.postimg.cc/ZnYdvgLv/t0.jpg",
-            "message": "I highly recommend Uthmaan, an aspiring web developer with a passion for creating stunning and functional websites.            Uthmaan has a strong foundation in programming languages such as HTML, CSS, and Bootstrap and is constantly learning and staying up-to-date with the latest technologies. His attention to detail and commitment to delivering high-quality work makes him an excellent choice for any web development project."
+            "message": "I wholeheartedly endorse Uthmaan, an ambitious and driven individual aspiring to excel in the field of web development. Uthmaan possesses an unwavering passion for creating visually captivating and highly functional websites, displaying a remarkable aptitude for various programming languages, including HTML, CSS, and Bootstrap. Demonstrating an unwavering commitment to professional growth, Uthmaan diligently keeps up with the ever-evolving landscape of technology, consistently seeking opportunities to expand his skillset and stay abreast of the latest advancements."
         },
         {
         "ID": 2,
@@ -75,7 +75,7 @@
         "Name": "Justin",
         "Surname": "Scholtz",
         "img": "https://i.postimg.cc/Wb4mfFPL/C12-Justin-Scholtz-2-min.jpg",
-        "message": "In these 6 months I've learned a lot about Uthmaan and who he is as a person. His very dedicated to always improving his skills, always asking questions and trying to understand the answer which is a good quality to have especially in a work environment and that is someone I would want on my team. Any company would be lucky to have him as a employee and I stand by that."
+        "message": "Over the course of these past six months, I have had the distinct pleasure of gaining profound insights into the character and capabilities of Uthmaan. His unyielding commitment to personal and professional growth has been a defining trait throughout our acquaintance. Uthmaan's unwavering dedication to honing his skills is truly admirable, as he consistently endeavors to improve his expertise in various domains. In a work environment, this quality is invaluable, as it demonstrates his innate drive to excel and his capacity to adapt to evolving challenges and technologies. Uthmaan's unwavering determination to seek knowledge and his genuine curiosity in comprehending complex concepts make him an exceptional individual, one who I would be delighted to have on my team."
     },
         {
         "ID": 5,
@@ -89,7 +89,7 @@
         "Name": "Imtiyaaz",
         "Surname": "Damon",
         "img": "https://i.postimg.cc/YSBL2WZ7/C12-C2-Mogammad-Damon-1.jpg",
-        "message": "Uthmaan's commitment to his work is truly commendable. Whether it's tackling complex problems, collaborating with team members, or leading initiatives, he consistently demonstrates a strong work ethic and a deep understanding of his field. His attention to detail and meticulous approach ensure that every task is completed to the highest standard, leaving no room for compromise."
+        "message": "When it comes to personal qualities, Uthmaan stands out as one of the most friendly and kind-hearted individuals I have ever known. His genuine warmth and compassion permeate every interaction, creating an inviting and supportive atmosphere around him. Uthmaan's unwavering commitment to his craft is evident in everything he does, as he approaches each task with an unmatched level of determination and enthusiasm. Regardless of the difficulty or complexity of an assignment, he consistently puts forth his best effort, going above and beyond to ensure its successful completion. Uthmaan's unwavering dedication instills a sense of pride in all his endeavors, driving him to consistently deliver exceptional results."
     }
     ],
 
@@ -110,7 +110,7 @@
         "level": "Specialist"
         },
         {"ID": 4,
-        "name": "JAVASCRIPT",
+        "name": "JAVASCRIP",
         "icon": "fa-brands fa-js",
         "level": "Average"
         },
@@ -134,7 +134,7 @@
             "school": "Life Choices Academy",
             "img": "https://i.postimg.cc/GprWxdJx/LIFE-CHOICES-ICON-ON-GREEN.jpg",
             "pass": "Currenlty busy",
-            "year": "Present"
+            "year": "2023"
         }
     ]
 
