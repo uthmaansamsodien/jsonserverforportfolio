@@ -24,7 +24,7 @@
             "github": "https://github.com/uthmaansamsodien/JavaScriptEOMP"
         },
         
-        {
+        {   
             "ID": 4,
             "titel": "Calculator",
             "img": "https://i.postimg.cc/BnmsbNhK/Screenshot-2023-07-03-161723.png",
@@ -93,9 +93,48 @@
     }
     ],
 
-    "skills":[
-        {"ID": ""
-
+    "Skills":[
+        {"ID": 1,
+        "name": "HTML",
+        "icon": "fa-brands fa-html5",
+        "level": "Specialist"
+        },
+        {"ID": 2,
+        "name": "CSS",
+        "icon": "fa-brands fa-css3-alt",
+        "level": "Specialist"
+        },
+        {"ID": 3,
+        "name": "BOOTSRAP",
+        "icon": "fa-brands fa-bootstrap",
+        "level": "Specialist"
+        },
+        {"ID": 4,
+        "name": "JAVASCRIPT",
+        "icon": "fa-brands fa-js",
+        "level": "Average"
+        },
+        {"ID": 5,
+        "name": "VUEJS",
+        "icon": "fa-brands fa-vuejs",
+        "level": "Average"
+        }
+    
+    ],
+    "Education":[
+        {
+            "ID": 1,
+            "school": "South Peninsula High",
+            "pass": "Bachelors pass",
+            "img": "https://i.postimg.cc/br8gKwrm/305770437-497476759052518-657363903575951353-n.jpg",
+            "year": "2022"
+        },
+        {
+            "ID": 2,
+            "school": "Life Choices Academy",
+            "img": "https://i.postimg.cc/GprWxdJx/LIFE-CHOICES-ICON-ON-GREEN.jpg",
+            "pass": "Currenlty busy",
+            "year": "Present"
         }
     ]
 
