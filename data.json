@@ -10,15 +10,15 @@
         
         {
             "ID": 2,
-            "titel": "To-Do List",
-            "img": "https://i.postimg.cc/cL43PTNT/Screenshot-2023-07-05-103027.png",
-            "netlify": "https://uthmaan-to-do-list-challenge.netlify.app/",
-            "github": "https://github.com/uthmaansamsodien/To-Do-List-Challenge"
+            "titel": "Capstone Project",
+            "img": "https://i.postimg.cc/3wv9ryhw/Screenshot-2023-10-26-093156.png",
+            "netlify": "https://kits4ucapstoneproject.web.app/",
+            "github": "https://github.com/uthmaansamsodien/capstone_project.git"
         },
         
         {
             "ID": 3,
-            "titel": "eCommerce website",
+            "titel": "eCommerce website (XCLUSIVECLEETS)",
             "img": "https://i.postimg.cc/NjCqBFM8/Screenshot-2023-07-03-161645.png",
             "netlify": "https://javascripteompecommercewebsite.netlify.app/",
             "github": "https://github.com/uthmaansamsodien/JavaScriptEOMP"
@@ -39,13 +39,12 @@
             "netlify": "https://splendorous-marzipan-9a7055.netlify.app/",
             "github": "https://github.com/uthmaansamsodien/BMIexercise"
         },
-        
         {
             "ID": 6,
-            "titel": "Calendar for May 2023",
-            "img": "https://i.postimg.cc/5yy29TJj/Screenshot-2023-07-03-162137.png",
-            "netlify": "https://lambent-wisp-edbfe3.netlify.app/",
-            "github": "https://github.com/uthmaansamsodien/calendar-for-May"
+            "titel": "eCommerce website (Fine Arts)",
+            "img": "https://i.postimg.cc/ZYjTxHB6/Screenshot-2023-10-26-093821.png",
+            "netlify": "https://nodeeomp-b8137.web.app/",
+            "github": "https://github.com/uthmaansamsodien/nodejs_eomp.git"
         }
     ],
     "Testimonials":[ 
@@ -97,27 +96,37 @@
         {"ID": 1,
         "name": "HTML",
         "icon": "fa-brands fa-html5",
-        "level": "Specialist"
+        "level": "Advanced"
         },
         {"ID": 2,
         "name": "CSS",
         "icon": "fa-brands fa-css3-alt",
-        "level": "Specialist"
+        "level": "Advanced"
         },
         {"ID": 3,
         "name": "BOOTSRAP",
         "icon": "fa-brands fa-bootstrap",
-        "level": "Specialist"
+        "level": "Advanced"
         },
         {"ID": 4,
         "name": "JAVASCRIPT",
         "icon": "fa-brands fa-js",
-        "level": "Average"
+        "level": "Competent"
         },
         {"ID": 5,
         "name": "VUEJS",
         "icon": "fa-brands fa-vuejs",
-        "level": "Average"
+        "level": "Competent"
+        },
+        {"ID": 6,
+        "name": "NODEJS",
+        "icon": "fa-brands fa-node-js",
+        "level": "Competent"
+        },
+        {"ID": 7,
+        "name": "Databases with MySQL",
+        "icon": "fa-solid fa-database",
+        "level": "Competent"
         }
     
     ],
