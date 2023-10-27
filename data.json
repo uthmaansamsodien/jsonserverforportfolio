@@ -95,33 +95,32 @@
     "Skills":[
         {"ID": 1,
         "name": "HTML",
-        "icon": "fa-brands fa-html5",
-        "level": "Advanced"
+        "icon": "fa-brands fa-html5"
         },
         {"ID": 2,
         "name": "CSS",
-        "icon": "fa-brands fa-css3-alt",
-        "level": "Advanced"
+        "icon": "fa-brands fa-css3-alt"
+        
         },
         {"ID": 3,
         "name": "BOOTSRAP",
-        "icon": "fa-brands fa-bootstrap",
-        "level": "Advanced"
+        "icon": "fa-brands fa-bootstrap"
+        
         },
         {"ID": 4,
         "name": "JAVASCRIPT",
-        "icon": "fa-brands fa-js",
-        "level": "Competent"
+        "icon": "fa-brands fa-js"
+        
         },
         {"ID": 5,
         "name": "VUEJS",
-        "icon": "fa-brands fa-vuejs",
-        "level": "Competent"
+        "icon": "fa-brands fa-vuejs"
+        
         },
         {"ID": 6,
         "name": "NODEJS",
-        "icon": "fa-brands fa-node-js",
-        "level": "Competent"
+        "icon": "fa-brands fa-node-js"
+    
         }
     ],
     "Education":[
@@ -129,7 +128,7 @@
             "ID": 1,
             "school": "South Peninsula High",
             "pass": "Bachelors pass",
-            "img": "https://i.postimg.cc/wvZfFt7Z/305770437-497476759052518-657363903575951353-n.jpggit",
+            "img": "https://i.postimg.cc/brR6Yy7v/Screenshot-2023-10-27-144823-removebg-preview-1.png",
             "year": "2022"
         },
         {
