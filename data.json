@@ -122,13 +122,7 @@
         "name": "NODEJS",
         "icon": "fa-brands fa-node-js",
         "level": "Competent"
-        },
-        {"ID": 7,
-        "name": "Databases with MySQL",
-        "icon": "fa-solid fa-database",
-        "level": "Competent"
         }
-    
     ],
     "Education":[
         {
