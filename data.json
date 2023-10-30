@@ -23,15 +23,13 @@
             "netlify": "https://javascripteompecommercewebsite.netlify.app/",
             "github": "https://github.com/uthmaansamsodien/JavaScriptEOMP"
         },
-        
-        {   
+          {
             "ID": 4,
-            "titel": "Calculator, A fully functional calculator",
-            "img": "https://i.postimg.cc/BnmsbNhK/Screenshot-2023-07-03-161723.png",
-            "netlify": "https://exercisecalculator.netlify.app/",
-            "github": "https://github.com/uthmaansamsodien/calculator"
-        },
-        
+            "titel": "eCommerce website, An eCommerce website selling artworks",
+            "img": "https://i.postimg.cc/ZYjTxHB6/Screenshot-2023-10-26-093821.png",
+            "netlify": "https://nodeeomp-b8137.web.app/",
+            "github": "https://github.com/uthmaansamsodien/nodejs_eomp.git"
+        }
         {
             "ID": 5,
             "titel": "BMI Calculator, A functional BMI calculator",
@@ -39,12 +37,12 @@
             "netlify": "https://splendorous-marzipan-9a7055.netlify.app/",
             "github": "https://github.com/uthmaansamsodien/BMIexercise"
         },
-        {
+        {   
             "ID": 6,
-            "titel": "eCommerce website, An eCommerce website selling artworks",
-            "img": "https://i.postimg.cc/ZYjTxHB6/Screenshot-2023-10-26-093821.png",
-            "netlify": "https://nodeeomp-b8137.web.app/",
-            "github": "https://github.com/uthmaansamsodien/nodejs_eomp.git"
+            "titel": "Calculator, A fully functional calculator",
+            "img": "https://i.postimg.cc/BnmsbNhK/Screenshot-2023-07-03-161723.png",
+            "netlify": "https://exercisecalculator.netlify.app/",
+            "github": "https://github.com/uthmaansamsodien/calculator"
         }
     ],
     "Testimonials":[ 
