@@ -10,7 +10,7 @@
         
         {
             "ID": 2,
-            "titel": "Capstone Project,I built an eCommerce website selling football jerseys",
+            "titel": "Capstone Project, I built an eCommerce website selling football jerseys",
             "img": "https://i.postimg.cc/3wv9ryhw/Screenshot-2023-10-26-093156.png",
             "netlify": "https://kits4ucapstoneproject.web.app/",
             "github": "https://github.com/uthmaansamsodien/capstone_project.git"
@@ -18,7 +18,7 @@
         
         {
             "ID": 3,
-            "titel": "eCommerce website, I built an point os sales system (pos) website selling football boots using JavaScript",
+            "titel": "eCommerce website, I built a point of sales system (pos) website selling football boots.",
             "img": "https://i.postimg.cc/NjCqBFM8/Screenshot-2023-07-03-161645.png",
             "netlify": "https://javascripteompecommercewebsite.netlify.app/",
             "github": "https://github.com/uthmaansamsodien/JavaScriptEOMP"
