@@ -33,7 +33,7 @@
         
         {
             "ID": 5,
-            "titel": "BMI Calculator, A functional BMI calculator.",
+            "titel": "BMI Calculator, A functional BMI calculator I buit with JavaScript.",
             "img": "https://i.postimg.cc/zGPcsBnw/Screenshot-2023-11-02-084908.png",
             "netlify": "https://splendorous-marzipan-9a7055.netlify.app/",
             "github": "https://github.com/uthmaansamsodien/BMIexercise"
@@ -41,7 +41,7 @@
         
         {   
             "ID": 6,
-            "titel": "Calculator, A fully functional calculator.",
+            "titel": "Calculator, A fully functional calculator I buit with JavaScript.",
             "img": "https://i.postimg.cc/BnmsbNhK/Screenshot-2023-07-03-161723.png",
             "netlify": "https://exercisecalculator.netlify.app/",
             "github": "https://github.com/uthmaansamsodien/calculator"
