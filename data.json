@@ -24,19 +24,19 @@
             "github": "https://github.com/uthmaansamsodien/JavaScriptEOMP"
         },
           {
-            "ID": 4,
-            "titel": "eCommerce website, I built an eComerce website using databases and api's with MySQL.",
-            "img": "https://i.postimg.cc/ZYjTxHB6/Screenshot-2023-10-26-093821.png",
-            "netlify": "https://nodeeomp-b8137.web.app/",
-            "github": "https://github.com/uthmaansamsodien/nodejs_eomp.git"
-        },
-        
-        {
-            "ID": 5,
+              "ID": 5,
             "titel": "BMI Calculator, A functional BMI calculator I buit with JavaScript.",
             "img": "https://i.postimg.cc/zGPcsBnw/Screenshot-2023-11-02-084908.png",
             "netlify": "https://splendorous-marzipan-9a7055.netlify.app/",
             "github": "https://github.com/uthmaansamsodien/BMIexercise"
+        },
+        
+        {
+             "ID": 4,
+            "titel": "eCommerce website, I built an eComerce website using databases and api's with MySQL.",
+            "img": "https://i.postimg.cc/ZYjTxHB6/Screenshot-2023-10-26-093821.png",
+            "netlify": "https://nodeeomp-b8137.web.app/",
+            "github": "https://github.com/uthmaansamsodien/nodejs_eomp.git"
         },
         
         {   
