@@ -120,7 +120,10 @@
         {"ID": 6,
         "name": "NODEJS",
         "icon": "fa-brands fa-node-js"
-    
+        },
+        {"ID": 7,
+        "name": "MySQL",
+        "icon": "fa-solid fa-database"
         }
     ],
     "Education":[
