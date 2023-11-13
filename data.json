@@ -10,7 +10,7 @@
         
         {
             "ID": 2,
-            "titel": "Capstone Project: I built an eCommerce website selling football jerseys.",
+            "titel": "Capstone Project: I built an e-Commerce website selling football jerseys.",
             "img": "https://i.postimg.cc/3wv9ryhw/Screenshot-2023-10-26-093156.png",
             "netlify": "https://kits4ucapstoneproject.web.app/",
             "github": "https://github.com/uthmaansamsodien/capstone_project.git"
@@ -33,7 +33,7 @@
         
         {
              "ID": 4,
-            "titel": "eCommerce Website: I built an eCommerce website using api's with MySQL.",
+            "titel": "e-Commerce Website: I created an e-commerce site with MySQL and APIs.",
             "img": "https://i.postimg.cc/ZYjTxHB6/Screenshot-2023-10-26-093821.png",
             "netlify": "https://nodeeomp-b8137.web.app/",
             "github": "https://github.com/uthmaansamsodien/nodejs_eomp.git"
@@ -59,7 +59,7 @@
         "ID": 2,
         "Name": "Ma'arij",
         "Surname": "Camroodien",
-        "img": "https://i.postimg.cc/cCYtz55R/e2c147ed-0f95-4798-96a5-93863264d3a4-removebg-preview-1.png",
+        "img": "https://i.postimg.cc/T3L72nHp/e2c147ed-0f95-4798-96a5-93863264d3a4-removebg-preview-1.png",
         "message": "Uthmaan is a quiet person, but once you get to know him you will discover that he is a very energetic person who is always eager to learn new things. He is always focused and determined that he will acomplish big things in hs future. When working in a group he is always co-operating 100%."
     },
         {
@@ -88,7 +88,7 @@
         "Name": "Imtiyaaz",
         "Surname": "Damon",
         "img": "https://i.postimg.cc/Y2xp9Lv9/C12-C2-Mogammad-Damon-1-removebg-preview.png",
-        "message": "When it comes to personal qualities, Uthmaan stands out as one of the most friendly and kind-hearted individuals I have ever known. His genuine warmth and compassion permeate every interaction, creating an inviting and supportive atmosphere around him, making is easy to get along with him."
+        "message": "When it comes to personal qualities, Uthmaan stands out as one of the most friendly and kind-hearted individuals I have ever known. His genuine warmth and compassion permeate every interaction, creating an inviting and supportive atmosphere around him, making it easy to get along and work with him."
     }
     ],
 
