@@ -18,7 +18,7 @@
         
         {
             "ID": 3,
-            "titel": "eCommerce website, I built a point of sales system (pos) website selling football boots.",
+            "titel": "eCommerce website, I built a point of sales system website selling football boots.",
             "img": "https://i.postimg.cc/NjCqBFM8/Screenshot-2023-07-03-161645.png",
             "netlify": "https://javascripteompecommercewebsite.netlify.app/",
             "github": "https://github.com/uthmaansamsodien/JavaScriptEOMP"
@@ -33,7 +33,7 @@
         
         {
              "ID": 4,
-            "titel": "eCommerce website, I built an eComerce website using databases and api's with MySQL.",
+            "titel": "eCommerce website, I built an eComerce website using databases with MySQL.",
             "img": "https://i.postimg.cc/ZYjTxHB6/Screenshot-2023-10-26-093821.png",
             "netlify": "https://nodeeomp-b8137.web.app/",
             "github": "https://github.com/uthmaansamsodien/nodejs_eomp.git"
@@ -59,7 +59,7 @@
         "ID": 2,
         "Name": "Ma'arij",
         "Surname": "Camroodien",
-        "img": "https://i.postimg.cc/44D7T9HS/e2c147ed-0f95-4798-96a5-93863264d3a4-removebg-preview-1.png",
+        "img": "https://i.postimg.cc/sXw30pYD/e2c147ed-0f95-4798-96a5-93863264d3a4-removebg-preview-1.png",
         "message": "Uthmaan is a quiet person, but once you get to know him you will discover that he is a very energetic person who is always eager to learn new things. He is always focused and determined that he will acomplish big things in hs future. When working in a group he is always co-operating 100%."
     },
         {
