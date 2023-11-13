@@ -2,7 +2,7 @@
     "projects":[
         {
             "ID": 1,
-            "titel": "Bootstrap Portfolio, My first portfolio that I made with bootsrap.",
+            "titel": "Bootstrap Portfolio: My initial portfolio crafted using Bootstrap.",
             "img": "https://i.postimg.cc/Wbtwx1Bc/Screenshot-2023-07-03-160932.png",
             "netlify": "https://portfolioofuthmaan.netlify.app/",
             "github": "https://github.com/uthmaansamsodien/Portfolio"
@@ -10,7 +10,7 @@
         
         {
             "ID": 2,
-            "titel": "Capstone Project, I built an eCommerce website selling football jerseys.",
+            "titel": "Capstone Project: I built an eCommerce website selling football jerseys.",
             "img": "https://i.postimg.cc/3wv9ryhw/Screenshot-2023-10-26-093156.png",
             "netlify": "https://kits4ucapstoneproject.web.app/",
             "github": "https://github.com/uthmaansamsodien/capstone_project.git"
@@ -18,7 +18,7 @@
         
         {
             "ID": 3,
-            "titel": "eCommerce website, I built a point of sales system website selling football boots.",
+            "titel": "Javascript Project: I built a point of sales system website.",
             "img": "https://i.postimg.cc/NjCqBFM8/Screenshot-2023-07-03-161645.png",
             "netlify": "https://javascripteompecommercewebsite.netlify.app/",
             "github": "https://github.com/uthmaansamsodien/JavaScriptEOMP"
@@ -33,7 +33,7 @@
         
         {
              "ID": 4,
-            "titel": "eCommerce website, I built an eComerce website using databases with MySQL.",
+            "titel": "eCommerce website, I built an eCommerce website using databases with MySQL.",
             "img": "https://i.postimg.cc/ZYjTxHB6/Screenshot-2023-10-26-093821.png",
             "netlify": "https://nodeeomp-b8137.web.app/",
             "github": "https://github.com/uthmaansamsodien/nodejs_eomp.git"
@@ -41,7 +41,7 @@
         
         {   
             "ID": 6,
-            "titel": "Calculator, A fully functional calculator I buit with JavaScript.",
+            "titel": "Calculator, A fully functional calculator I built with JavaScript.",
             "img": "https://i.postimg.cc/BnmsbNhK/Screenshot-2023-07-03-161723.png",
             "netlify": "https://exercisecalculator.netlify.app/",
             "github": "https://github.com/uthmaansamsodien/calculator"
@@ -88,7 +88,7 @@
         "Name": "Imtiyaaz",
         "Surname": "Damon",
         "img": "https://i.postimg.cc/Y2xp9Lv9/C12-C2-Mogammad-Damon-1-removebg-preview.png",
-        "message": "When it comes to personal qualities, Uthmaan stands out as one of the most friendly and kind-hearted individuals I have ever known. His genuine warmth and compassion permeate every interaction, creating an inviting and supportive atmosphere around him."
+        "message": "When it comes to personal qualities, Uthmaan stands out as one of the most friendly and kind-hearted individuals I have ever known. His genuine warmth and compassion permeate every interaction, creating an inviting and supportive atmosphere around him, making is easy to get along with him."
     }
     ],
 
