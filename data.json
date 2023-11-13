@@ -25,7 +25,7 @@
         },
           {
               "ID": 5,
-            "titel": "BMI Calculator, A functional BMI calculator I buit with JavaScript.",
+            "titel": "BMI Calculator: A functional BMI calculator I buit with JavaScript.",
             "img": "https://i.postimg.cc/zGPcsBnw/Screenshot-2023-11-02-084908.png",
             "netlify": "https://splendorous-marzipan-9a7055.netlify.app/",
             "github": "https://github.com/uthmaansamsodien/BMIexercise"
@@ -33,7 +33,7 @@
         
         {
              "ID": 4,
-            "titel": "eCommerce website, I built an eCommerce website using databases with MySQL.",
+            "titel": "eCommerce Website: I built an eCommerce website using api's with MySQL.",
             "img": "https://i.postimg.cc/ZYjTxHB6/Screenshot-2023-10-26-093821.png",
             "netlify": "https://nodeeomp-b8137.web.app/",
             "github": "https://github.com/uthmaansamsodien/nodejs_eomp.git"
@@ -41,7 +41,7 @@
         
         {   
             "ID": 6,
-            "titel": "Calculator, A fully functional calculator I built with JavaScript.",
+            "titel": "Calculator: A fully functional calculator I built with JavaScript.",
             "img": "https://i.postimg.cc/BnmsbNhK/Screenshot-2023-07-03-161723.png",
             "netlify": "https://exercisecalculator.netlify.app/",
             "github": "https://github.com/uthmaansamsodien/calculator"
@@ -59,7 +59,7 @@
         "ID": 2,
         "Name": "Ma'arij",
         "Surname": "Camroodien",
-        "img": "https://i.postimg.cc/sXw30pYD/e2c147ed-0f95-4798-96a5-93863264d3a4-removebg-preview-1.png",
+        "img": "https://i.postimg.cc/cCYtz55R/e2c147ed-0f95-4798-96a5-93863264d3a4-removebg-preview-1.png",
         "message": "Uthmaan is a quiet person, but once you get to know him you will discover that he is a very energetic person who is always eager to learn new things. He is always focused and determined that he will acomplish big things in hs future. When working in a group he is always co-operating 100%."
     },
         {
