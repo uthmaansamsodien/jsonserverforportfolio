@@ -95,7 +95,7 @@
     "Skills":[
         {"ID": 1,
         "name": "HTML",
-        "icon": "fa-brands fa-html5"
+        "icon": ".../icons8-html-16.png"
         },
         {"ID": 2,
         "name": "CSS",
