@@ -119,7 +119,7 @@
         },
         {"ID": 6,
         "name": "NODEJS",
-        "icon": "fa-brands fa-node-js"
+        "icon": "fa-brands fa-node"
         },
         {"ID": 7,
         "name": "MySQL",
