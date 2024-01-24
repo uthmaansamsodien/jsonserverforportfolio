@@ -96,41 +96,41 @@
         {
         "ID": 1,
         "name": "HTML",
-        "icon": ".../icons8-html-16.png"
+        "icon": "https://i.ibb.co/87CX7Pw/icomoon-free-html-five.png"
         },
         {
         "ID": 2,
         "name": "CSS",
-        "icon": "fa-brands fa-css3-alt"
+        "icon": "https://i.ibb.co/hRdMk8J/uiw-css3.png"
         
         },
         {
         "ID": 3,
         "name": "BOOTSRAP",
-        "icon": "fa-brands fa-bootstrap"
+        "icon": "https://i.ibb.co/hBZmJYG/Vector-1.png"
         
         },
         {
         "ID": 4,
         "name": "JAVASCRIPT",
-        "icon": "fa-brands fa-js"
+        "icon": "https://i.ibb.co/FYw7v11/teenyicons-javascript-solid.png"
         
         },
         {
         "ID": 5,
         "name": "VUEJS",
-        "icon": "fa-brands fa-vuejs"
+        "icon": "https://i.ibb.co/RgqbY7T/Vector.png"
         
         },
         {
         "ID": 6,
         "name": "NODEJS",
-        "icon": "fa-brands fa-node"
+        "icon": "https://i.ibb.co/Ws0DCdh/Vector-2.png"
         },
         {
         "ID": 7,
         "name": "MySQL",
-        "icon": "fa-solid fa-database"
+        "icon": "https://i.ibb.co/9vh5SGR/bxs-data.png"
         }
     ],
     "Education":[
