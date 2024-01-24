@@ -96,41 +96,41 @@
         {
         "ID": 1,
         "name": "HTML",
-        "icon": "fa-brands fa-html5"
+        "icon": "https://i.ibb.co/zn7vbh3/image-processing20210621-8688-i7bjd4.png"
         },
         {
         "ID": 2,
         "name": "CSS",
-        "icon": "fa-brands fa-css3-alt"
+        "icon": "https://i.ibb.co/jLKkrs0/css-icon-463x512-huiplwey.png"
         
         },
         {
         "ID": 3,
         "name": "BOOTSRAP",
-        "icon": "fa-brands fa-bootstrap"
+        "icon": "https://i.ibb.co/SN5tYML/brand-bootstrap-icon-2048x1675-6k3so6fn.png"
         
         },
         {
         "ID": 4,
         "name": "JAVASCRIPT",
-        "icon": "fa-brands fa-square-js"
+        "icon": "https://i.ibb.co/KL6mZ4M/png-transparent-js-logo-logos-logos-and-brands-icon-removebg-preview.png"
         
         },
         {
         "ID": 5,
         "name": "VUEJS",
-        "icon": "fa-brands fa-vuejs"
+        "icon": "https://i.ibb.co/gv5pmqW/cib-vue-js.png"
         
         },
         {
         "ID": 6,
         "name": "NODEJS",
-        "icon": "https://i.ibb.co/Ws0DCdh/Vector-2.png"
+        "icon": "https://i.ibb.co/YcsksY7/download-removebg-preview.png"
         },
         {
         "ID": 7,
         "name": "MySQL",
-        "icon": "https://i.ibb.co/9vh5SGR/bxs-data.png"
+        "icon": "https://i.ibb.co/t8Chx67/database.png"
         }
     ],
     "Education":[
