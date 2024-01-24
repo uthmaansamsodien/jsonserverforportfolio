@@ -96,30 +96,29 @@
         {
         "ID": 1,
         "name": "HTML",
-        "icon": "https://i.ibb.co/87CX7Pw/icomoon-free-html-five.png"
-        },
+        "icon": "fa-brands fa-html5"
         {
         "ID": 2,
         "name": "CSS",
-        "icon": "https://i.ibb.co/hRdMk8J/uiw-css3.png"
+        "icon": "fa-brands fa-css3-alt"
         
         },
         {
         "ID": 3,
         "name": "BOOTSRAP",
-        "icon": "https://i.ibb.co/hBZmJYG/Vector-1.png"
+        "icon": "fa-brands fa-bootstrap"
         
         },
         {
         "ID": 4,
         "name": "JAVASCRIPT",
-        "icon": "https://i.ibb.co/FYw7v11/teenyicons-javascript-solid.png"
+        "icon": "fa-brands fa-square-js"
         
         },
         {
         "ID": 5,
         "name": "VUEJS",
-        "icon": "https://i.ibb.co/RgqbY7T/Vector.png"
+        "icon": "fa-brands fa-vuejs"
         
         },
         {
