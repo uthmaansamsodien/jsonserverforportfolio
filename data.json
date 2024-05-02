@@ -145,8 +145,15 @@
             "ID": 2,
             "school": "Life Choices Academy",
             "img": "https://i.ibb.co/HgdGhqS/LIFE-CHOICES-ICON-ON-GREEN.webp",
-            "pass": "Currenlty busy",
+            "pass": "Certifcate",
             "year": "2023"
+        },
+          {
+            "ID": 3,
+            "school": "Global Employment Challenge",
+            "img": "https://i.ibb.co/tbdVpPz/No-MLF-GEC-Master-Logo-RGB-White.png",
+            "pass": "Member of GEC",
+            "year": "2024"
         }
     ]
 
