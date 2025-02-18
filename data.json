@@ -131,6 +131,21 @@
         "ID": 7,
         "name": "MySQL",
         "icon": "https://i.postimg.cc/sxNZ19rP/bxs-data-resized.png"
+        },
+        {
+        "ID": 8,
+        "name": "WORDPRESS",
+        "icon": "https://i.postimg.cc/qRWqGkZT/59137.png"
+        },
+        {
+        "ID": 9,
+        "name": "CANVA",
+        "icon": "https://i.postimg.cc/nVQChDCc/1691829482canva-logo-black.png"
+        },
+        {
+        "ID": 10,
+        "name": "FIGMA",
+        "icon": "https://i.postimg.cc/6qR3jDDG/Add-a-heading-removebg-preview.png"
         }
     ],
     "Education":[
